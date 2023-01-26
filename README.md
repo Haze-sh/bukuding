@@ -10,3 +10,4 @@ A tool for synchronizing **buku** with **linkding** server
 
 ## TODO
 - [ ] Sync tags
+- [ ] Sync deletions
