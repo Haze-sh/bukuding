@@ -1,7 +1,5 @@
 # bukuding
 
-**WIP**
-
 A tool for synchronizing **buku** with **linkding** server
 
 # Credits
